@@ -1,4 +1,4 @@
-### Junior in Computer Science / Ihsan Dogramaci Bilkent University
+### Senior in Computer Science / Ihsan Dogramaci Bilkent University
 
 <!--
 **AhmetZor/AhmetZor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
